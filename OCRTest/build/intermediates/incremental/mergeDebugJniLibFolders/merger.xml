@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/src/debug/jniLibs"/></dataSet></merger>

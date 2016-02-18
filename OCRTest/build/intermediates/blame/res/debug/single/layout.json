@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/build/intermediates/res/merged/debug/layout/capture.xml",
+        "source": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/src/main/res/layout/capture.xml"
+    },
+    {
+        "merged": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/src/main/res/layout/help.xml"
+    }
+]

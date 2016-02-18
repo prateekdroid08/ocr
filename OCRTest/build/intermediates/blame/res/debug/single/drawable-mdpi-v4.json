@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/build/intermediates/res/merged/debug/drawable-mdpi-v4/shutter_pressed.png",
+        "source": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/src/main/res/drawable-mdpi/shutter_pressed.png"
+    },
+    {
+        "merged": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/build/intermediates/res/merged/debug/drawable-mdpi-v4/background_pressed.png",
+        "source": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/src/main/res/drawable-mdpi/background_pressed.png"
+    },
+    {
+        "merged": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/build/intermediates/res/merged/debug/drawable-mdpi-v4/shutter.png",
+        "source": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/src/main/res/drawable-mdpi/shutter.png"
+    },
+    {
+        "merged": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/build/intermediates/res/merged/debug/drawable-mdpi-v4/background.png",
+        "source": "/Users/prateekarora/Desktop/OCR_EXAMPLE/android-ocr/OCRTest/src/main/res/drawable-mdpi/background.png"
+    }
+]
